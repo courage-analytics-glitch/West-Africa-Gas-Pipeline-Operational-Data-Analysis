@@ -1,0 +1,4 @@
+fuel_source,relative_cost,note
+Natural gas via WAGP,Lowest,"Displaces diesel/HFO for power plants, industrial, mining users in Ghana, Togo, Benin"
+Diesel,High,Primary substitute where gas supply is interrupted or unavailable
+Heavy Fuel Oil (HFO),High,"Used by thermal plants as gas backup, more expensive and higher emissions"
